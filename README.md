@@ -1,2 +1,3 @@
-# git-cvicenie
-git cvičení
+#Cvičenie na Git
+
+Toto je cvičenie na Git.
